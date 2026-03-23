@@ -1,0 +1,23 @@
+table, th, td {
+  border:1px solid black;
+}
+
+body {
+  background-color: lightblue;
+}
+
+th {
+    background-color: lightgreen;
+    border-bottom: solid rgb(182, 58, 58) 3px;
+}
+
+table {
+  width: 100%;
+  background-color: navajowhite;
+  border-collapse: collapse;
+}
+
+td {
+  text-align: center;
+  background-color: lightyellow;
+}
